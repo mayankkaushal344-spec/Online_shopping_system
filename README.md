@@ -38,3 +38,8 @@ The project simulates a basic e-commerce platform where users can browse product
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/online-shopping-system.git
+2. Open the project in VS Code
+3. Compile the code:
+   javac Main.java
+4. Run the program:
+   java Main
